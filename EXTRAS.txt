@@ -1,0 +1,31 @@
+
+
+1. Sumar dos números:
+   - Crea un algoritmo que tome dos números como entrada y muestre su suma como salida.
+
+2. Determinar si un número es positivo o negativo:
+   - Escribe un algoritmo que determine si un número dado es positivo o negativo.
+
+3. Obtener la cantidad de dinero que recibirá cada área:
+   - Desarrolla un algoritmo y su código en PSeInt para calcular la cantidad de dinero que recibirá cada área basándose en el monto del presupuesto.
+
+4. Compra de artículos:
+   - Crea un algoritmo que solicite al usuario ingresar la cantidad de artículos comprados y luego determine el método de pago según la cantidad (por ejemplo, pagar en efectivo si son menos de 3 artículos, de lo contrario pagar con tarjeta).
+
+
+
+
+1. Algoritmo de ordenamiento de números:
+   - Crea un algoritmo que ordene un conjunto de números de menor a mayor utilizando el método de selección, burbuja o inserción.
+
+2. Cálculo del factorial de un número:
+   - Desarrolla un algoritmo que calcule el factorial de un número entero dado.
+
+3. Búsqueda de un elemento en un arreglo:
+   - Escribe un algoritmo que busque la presencia de un elemento específico en un arreglo y muestre su posición si se encuentra.
+
+4. Conversión de unidades de temperatura:
+   - Crea un algoritmo que convierta una temperatura dada en grados Celsius a Fahrenheit o viceversa.
+
+5. Determinación del día de la semana:
+   - Desarrolla un algoritmo que, dada una fecha, calcule el día de la semana correspondiente (por ejemplo, lunes, martes, etc.).
